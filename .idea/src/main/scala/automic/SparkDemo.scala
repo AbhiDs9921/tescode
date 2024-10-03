@@ -11,8 +11,8 @@ object SparkDemo{
       .appName("myTest")
       .getOrCreate()
 
-
-    println("Hieeeeerrrrrreeeee..............")
+    // this is just for testing......!!
+    println("Hie my dear class..............")
   }
 
 }
