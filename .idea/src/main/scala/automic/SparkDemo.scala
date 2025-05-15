@@ -12,7 +12,7 @@ object SparkDemo{
       .getOrCreate()
 
     // this is just for testing......!!
-    println("Hie my dear devvvvv rushi class..............")
+    println("Hie my dear d class..............")
   }
 
 }
